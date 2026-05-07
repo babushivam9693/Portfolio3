@@ -27,7 +27,7 @@ const Navbar = () => {
           ))}
           <li>
             <a
-              href="/shivam_singh_resume.pdf"
+              href="/public/Shivam CV.pdf"
               download="shivam_singh_resume.pdf"
               className="flex items-center gap-2 px-5 py-1.5 bg-white text-black rounded-full font-medium hover:bg-gray-200 transition"
             >
@@ -63,7 +63,7 @@ const Navbar = () => {
     ))}
     <li>
       <a
-        href="/shivam_singh_resume.pdf"
+        href="/public/Shivam CV.pdf"
         download="shivam_singh_resume.pdf"
         onClick={toggleMenu}
         className="flex items-center gap-2 px-4 py-2 bg-white text-black rounded-full hover:bg-gray-800 transition"
