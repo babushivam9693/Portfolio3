@@ -5,7 +5,7 @@ import HRMS from "../../assets/hrm.jpg";
 import web from "../../assets/web.jpg";
 import Kanno from "../../assets/Kidney.png";
 import fintech from "../../assets/fintech.png";
-import SKG from "../../assets/skg.png";
+import SKG from "../../assets/SKG.png";
 
 const Projects = () => {
 
