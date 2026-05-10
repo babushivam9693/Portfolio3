@@ -6,6 +6,7 @@ import web from "../../assets/web.jpg";
 import Kanno from "../../assets/Kidney.png";
 import fintech from "../../assets/fintech.png";
 import SKG from "../../assets/SKG.png";
+import maxpod from "../../assets/maxpod.png"
 
 const Projects = () => {
 
@@ -23,6 +24,12 @@ const Projects = () => {
       main: "Developed a responsive healthcare service website using HTML, CSS, JavaScript, and React. Designed a modern UI to showcase home injection services and appointment booking.",
       link: "https://pnsd.in/",
       img: ecommerce,
+    },
+    {
+      title: "MaxPOD",
+      main: "The website presents MAXPOD as a forward-thinking company that combines elegant design, advanced sound insulation, smart ventilation systems, and sustainable materials to create private work environments for modern professionals.",
+      link: "https://maxpodteam.com/",
+      img: maxpod,
     },
     {
       title: "Kanno Health Care",
